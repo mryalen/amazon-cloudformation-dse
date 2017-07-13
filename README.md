@@ -1,3 +1,8 @@
+
+# DEPRICATION WARNING
+## This repo is depricated in favor of our [AWS Quickstart](https://github.com/aws-quickstart/quickstart-datastax) which can be launched [here](https://aws.amazon.com/quickstart/architecture/datastax-enterprise/)
+## It may be deleted in the future.
+
 # amazon-cloudformation-dse
 
 This repo contains AWS CloudFormation templates and related scripts to quickly
